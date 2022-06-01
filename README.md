@@ -1,7 +1,9 @@
 
 ## Instructions
 
-- Video
+Watch the video:
+
+ [![Alt text](https://img.youtube.com/vi/KMkmA4i2FQc/hqdefault.jpg)](https://youtu.be/KMkmA4i2FQc)
 
 ## Custom functions
 
